@@ -14,7 +14,6 @@
 ---
 
 ## 🛠️ Languages and Tools
-
 ### 🚀 Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -65,7 +64,13 @@
 
 ---
 
-## 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/megha-b95453280)  
-📧 Email: [meghabansal1230@gmail.com](mailto:meghabansal1230@gmail.com)  
+## 📜 Certifications
+[![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-blue?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
+[![Udemy MERN Bootcamp](https://img.shields.io/badge/Udemy-MERN%20Stack%20Bootcamp-orange?logo=udemy&logoColor=white)](https://www.udemy.com/)  
+[![Myntra Hackathon](https://img.shields.io/badge/Myntra-HackerRamp%20WeForShe-purple?logo=myntra&logoColor=white)](https://www.myntra.com/)  
 
+---
+
+## 🌍 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/megha-b95453280)
+📧 Email: [meghabansal1230@gmail.com](mailto:meghabansal1230@gmail.com)  
