@@ -64,13 +64,14 @@
 
 ---
 
-## 📜 Certifications
-[![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-blue?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
-[![Udemy MERN Bootcamp](https://img.shields.io/badge/Udemy-MERN%20Stack%20Bootcamp-orange?logo=udemy&logoColor=white)](https://www.udemy.com/)  
-[![Myntra Hackathon](https://img.shields.io/badge/Myntra-HackerRamp%20WeForShe-purple?logo=myntra&logoColor=white)](https://www.myntra.com/)  
+## 📜 Certifications 
+[![Microsoft Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
+[![Udemy MERN Bootcamp](https://img.shields.io/badge/Udemy-MERN%20Stack%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)  
+[![Myntra Hackathon](https://img.shields.io/badge/Myntra-HackerRamp%20WeForShe-FF3F6C?style=for-the-badge&logo=myntra&logoColor=white)](https://www.myntra.com/)  
+
 
 ---
 
 ## 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-Megha%20Bansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/megha-b95453280)](https://linkedin.com/in/megha-b95453280)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/megha-b95453280)  
 📧 Email: [meghabansal1230@gmail.com](mailto:meghabansal1230@gmail.com)  
